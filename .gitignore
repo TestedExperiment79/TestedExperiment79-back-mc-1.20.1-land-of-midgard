@@ -23,6 +23,7 @@ patchouli_data.json
 servers.dat
 servers.dat_old
 TempOptifineStore-1.0.json
+hs_err_pid**.log
 
 usercache.json
 usernamecache.json
