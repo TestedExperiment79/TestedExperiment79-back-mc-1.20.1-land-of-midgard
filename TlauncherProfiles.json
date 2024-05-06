@@ -1,0 +1,15 @@
+{
+  "clientToken": "bc9088c1-91c1-4b7c-a4e7-7aac47f79d92",
+  "accounts": {
+    "a648c1d9e1d24ceab87392d281616836": {
+      "username": "dracula",
+      "userID": "dracula",
+      "displayName": "dracula",
+      "uuid": "a648c1d9e1d24ceab87392d281616836",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "a648c1d9e1d24ceab87392d281616836",
+  "freeAccountUUID": "a648c1d9e1d24ceab87392d281616836"
+}
